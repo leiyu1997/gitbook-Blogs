@@ -4,7 +4,7 @@
 
 ## 第一个组
 
-* [Markdown语法](di-yi-ge-zu/zu-de-di-yi-pian-wen-zhang.md)
+* [Markdown语法](di-yi-ge-zu/markdown-yu-fa.md)
 
 ## 第二个组
 
