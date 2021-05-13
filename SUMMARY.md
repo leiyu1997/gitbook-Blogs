@@ -1,10 +1,10 @@
 # Table of contents
 
-* [我的第一篇文章](README.md)
+* [我的博客](README.md)
 
 ## 第一个组
 
-* [组的第一篇文章](di-yi-ge-zu/zu-de-di-yi-pian-wen-zhang.md)
+* [Markdown语法](di-yi-ge-zu/zu-de-di-yi-pian-wen-zhang.md)
 
 ## 第二个组
 
