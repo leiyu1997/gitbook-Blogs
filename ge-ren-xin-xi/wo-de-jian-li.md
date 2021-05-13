@@ -7,7 +7,7 @@
 * 工作年限：1-2年
 * 手机（同微信）：17866638465
 * Email：leiyu97@foxmail.com 
-* 技术博客：[https://blog.csdn.net/qq\_35621494](https://blog.csdn.net/qq_35621494)
+* 技术博客：[https://lei6393.gitbook.io/blogs](https://lei6393.gitbook.io/blogs/)
 * Github：[https://github.com/leiyu1997](https://github.com/leiyu1997)
 * 期望职位：Java开发工程师
 * 期望城市：北京/上海/杭州
