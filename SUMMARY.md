@@ -9,9 +9,3 @@
 
 ## 计算机网络
 
-* [Untitled](ji-suan-ji-wang-luo/untitled.md)
-
-## 个人信息
-
-* [我的简历](ge-ren-xin-xi/wo-de-jian-li.md)
-
